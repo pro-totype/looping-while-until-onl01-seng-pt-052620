@@ -1,0 +1,15 @@
+def using_until
+2.6.1 :009?>   levitation_force= 6
+2.6.1 :010?>   puts "windarium Leviosa"
+2.6.1 :011?>   levitation_force + 1
+2.6.1 :012?>   until levitation_force ==10
+2.6.1 :013?>     end
+2.6.1 :014?>   end
+
+def using_until
+  levitation_force= 6
+    puts "Windarium Leviosa"
+    levitation_force + 1
+    until levitation_force== 10
+      end
+    end
